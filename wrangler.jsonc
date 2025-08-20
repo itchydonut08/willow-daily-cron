@@ -1,0 +1,6 @@
+{
+  "name": "willow-daily-cron",
+  "main": "src/index.js",
+  "compatibility_date": "2025-08-19",
+  "triggers": { "crons": ["0 11 * * *"] } 
+}
